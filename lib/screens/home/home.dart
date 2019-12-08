@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return new Scaffold(
       backgroundColor: Colors.teal[500],
       appBar: AppBar(
-        title: Text('Brew Crew'),
+        title: Text('Direct Me'),
         backgroundColor: Colors.brown[400],
         elevation: 0.0,
         actions: <Widget>[
